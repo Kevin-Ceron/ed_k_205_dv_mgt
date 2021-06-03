@@ -2,6 +2,7 @@ CREATE OR REPLACE PACKAGE ed_k_205_dv_mgt
 AS
    --
    Este es un cambio en sqldeveloper
+   prueba1.MMr
    --
    /* -------------------- DESCRIPCION -----------------------
    || Paquete para el manejo de Datos variables
