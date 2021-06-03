@@ -1,6 +1,8 @@
 CREATE OR REPLACE PACKAGE ed_k_205_dv_mgt
 AS
    --
+   Este es un cambio en sqldeveloper
+   --
    /* -------------------- DESCRIPCION -----------------------
    || Paquete para el manejo de Datos variables
    || ramo 205(INCENDIO INDUSTRIAL - POLIZAS DECLARATIVAS)
