@@ -4,6 +4,7 @@ AS
    Este es un cambio en sqldeveloper
    prueba1.MMr
    Holaa a todos
+   /*Hola mundo Bgoz*/
    --
    /* -------------------- DESCRIPCION -----------------------
    || Paquete para el manejo de Datos variables
